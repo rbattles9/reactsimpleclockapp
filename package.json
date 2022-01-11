@@ -1,0 +1,22 @@
+{
+ "name": "react-native-alarm",
+ "version": "1.2.1",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "keywords": [
+   "react-native"
+ ],
+ "author": "gbliang@outlook.com",
+ "license": "MIT",
+ "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartliang/react-native-alarm.git"
+  },
+ "peerDependencies": {
+   "react-native": "^0.47.0"
+ },
+ "types": "index.d.ts"
+}
